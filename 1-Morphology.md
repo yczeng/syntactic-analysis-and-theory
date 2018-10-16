@@ -1,23 +1,22 @@
-# Morphology: Starting with words
+# 1. Morphology: Starting with words
 
-morphology is the subdomain of linguistics dealing with word properties, particularly word structure.
+Morphology is the subdomain of linguistics dealing with word properties, particularly word structure.
 
-basic ideas: 1) words come in categories, 2) words can be made of smaller units (morphemes), 3) morphemes combine in a regular, rule-governed fashion, 4) morphemes can be silent
+Basic ideas:
+1. Words come in categories
+2. Words can be made of smaller units (morphemes)
+3. Morphemes combine in a regular, rule-governed fashion
+4. Morphemes can be silent
 
-## 1.1 Words come in categories
+### 1.1 Words come in categories
 
-Open class categories (new words can be freenly created in these categories)
-Noun, Verb, Adjective, Adverb
+* **Open class categories (new words can be freenly created in these categories):** Noun, Verb, Adjective, Adverb
+* **Closed categories:** Preposition, Determiner, Numerals, Complementizers, Auziliaries, Modals, Coordinators, Negation/ Affirmation
 
-Closed categories: Preposition, Determiner, Numerals, Complementizers, Auziliaries, Modals, Coordinators, Negation/ Affirmation
-
-## 1.1.1 Word affixes are often category and sub-category specific
-If a word can be pluralized, it is a noun.
-
-only verbs can have the past tense or progressive affixes (i.e. I dance, I danc-ed, I am danc-ing)
-
-Remember that negative results are usually uninformative.
-
+#### 1.1.1 Word affixes are often category and sub-category specific
+* If a word can be pluralized, it is a noun.
+* Only verbs can have the past tense or progressive affixes (i.e. I dance, I danc-ed, I am danc-ing)
+* Remember that negative results are usually uninformative.
 
 ## 1.1.2. Synatactic contexts are sensitive to the same categories
 
