@@ -63,7 +63,7 @@ i.e. national, nationalize, denationalize, nationalizing, denationalization, den
                └── nation
 ```
 
-[N[V[A[N nation]-al]-ize[-ation]]
+[N [V [A [N nation] -al] -ize] -ation]
 
 #### 1.3.4 Selection and locality
 * Branches cannot cross - morphological structures are respected by the temporal ordering
