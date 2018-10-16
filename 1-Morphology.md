@@ -48,22 +48,11 @@ i.e. national, nationalize, denationalize, nationalizing, denationalization, den
      * affixes must combine with something next to it. ok: nation nationiz national nationalize. not ok: nationizal
      * what results from combining an affix with a complement. i.e. national is an adjective. -al turns a N into an A.
 * We call these specifications lexical entries.
+* the collection of lexical entries is called a lexicon
+* The mental representation of the lexicon. There is some evidence that frequently used words are represented in their complete forms.
 
--a: c-selects N to form A: natur-al
--ion: c-selects V to form N: realizat-ion, relat0ion
--ity: c-selects A to form N: profan-ity
--ism: c-selects A to form N: momdern-ism
--ist: c-selects A to form N: formal-ist
--ize: c-selects A to form V: special-ize
-
-other suffixes select only select roots (too much to copy, see text)
-
-the collection of lexical entries is called a lexicon
-
-The mental representation of the lexicon. There is some evidence that frequently used words are represented in their complete forms.
-
-## 1.3.3 
-
+#### 1.3.3 
+```
 ── N
    ├── -ation
    └── V
@@ -72,35 +61,29 @@ The mental representation of the lexicon. There is some evidence that frequently
            ├── -al
            └── N
                └── nation
+```
 
 [N[V[A[N nation]-al]-ize[-ation]]
 
-##1.3.4 Selection and locality
+#### 1.3.4 Selection and locality
+* Branches cannot cross - morphological structures are respected by the temporal ordering
+* We never find morphological trees where a node has more than one mother, more than one node lacks a mother, or a mother has more than two daughters.
 
-Brahcnes cannot cross - morphological structures are respected by the temporal ordering
+#### 1.3.6 Compounds
+* Obtain words by combining them.
+* The English right hand head rule (RHHR): the rightmost element of a compound is the head of the compound. i.e. blackbird, jetblack, babysit.
 
-We never find morphological trees where a node has more than one mother, more than one node lacks a mother, or a mother has more than two daughters.
+#### 1.3.7 The categorial status of affixes
+* Pre-fixes do not change category of word.
+* Suffixes are able to change the category, obeys the right hand head rule. i.e. kill-er, manage-able, happi-ness
+* Suffixes are like words
+* Perspective on affixes extends to inflectional affixes (making singular/ plural and tense)
 
-##1.3.6 Compounds
-
-Obtain words by combining them.
-
-The English right hand head rule (RHHR): the rightmost element of a compound is the head of the compound. i.e. blackbird, jetblack, babysit.
-
-#1.3.7 The categorial status of affixes
-pre-fixes do not change category of word.
-
-suffixes are able to change the category, obeys the right hand head rule. i.e. kill-er, manage-able, happi-ness
-Suffixes are like words
-
-perspective on affixes extends to inflectional affixes (making singular/ plural and tense)
-
-#1.4 Apparent exceptions to the RHHR
-Conversion create a new word without the usage of a visible affix.
-i.e. father, butter, ship, nail are both nouns and verbs
-
-Postulating a silent present tense morpheme
-
+### 1.4 Apparent exceptions to the RHHR
+* Conversion create a new word without the usage of a visible affix.
+* i.e. father, butter, ship, nail are both nouns and verbs
+* Postulating a silent present tense morpheme:
+```
 ── T
    ├── V laugh
    └── T -ed
@@ -118,36 +101,28 @@ Postulating a silent present tense morpheme
    └── V
        ├── V e
        └── N father
+```
+* If verbs such as father, wet, dry are related to the noun father, or the adjectives wet and dry are derived by affixation of a silent morpheme, then they are not roots: they are complex.
+* No affixes that attach only to verb roots should be able to attach to these elements.
+     * i.e. streer-age, wet-age, dry-age; betray-al, wet-al, dry-al
+* failure is predicted by the silent affix proposal
+* *The idea is that some parts of language structure may be unpronounced is a theoretically important one.*
 
-If verbs such as father, wet, dry are related to the noun father, or the adjectives wet and dry are derived by affixation of a silent morpheme, then they are not roots: they are complex.
-No affixes that attach only to verb roots should be able to attach to these elements.
-
-i.e. streer-age, wet-age, dry-age; betray-al, wet-al, dry-al
-
-failure is predicted by the silent affix proposal
-
-The idea is that som eparts of language structure may be unpronounced is a theoretically important one.
-
-#1.5 Morphological Atoms
+### 1.5 Morphological Atoms
 morphemes are minimal units of meaning and they can sometimes be silent
 
-#1.6 Conclusion
-Compositionality in morphology: the properties of complex words are determined by their parts and how those parts are assembled.
+### 1.6 Conclusion
+* Compositionality in morphology: the properties of complex words are determined by their parts and how those parts are assembled.
+* A morpheme that can combine with a wide range of things is said to be productive. The English affix -al is not very productive while English noun compounding is very productive.
+* The existence of productive affixes in a language opens the possibility for recursion in the morphology of language.
+     * i.e. re-do, re-re-do, re-re-re-do; denationalization, denationalizational, denationalizationalize.
+* *Recursion in morphology:* Morphology can have recursive affization and recursive compounding. When this happens, the language has infinitely many words.
 
-A morpheme that can combine with a wide range of things is said to be productive. The English affix -al is not very productive while English noun compounding is very productive.
-
-The existence of productive affixes in a language opens the possibility for recursion in the morphology of language. i.e. re-do, re-re-do, re-re-re-do.
-
-denationalization, denationalizational, denationalizationalize.
-
-Recursion in morphology: Morphology can have recursive affization and recursive compounding. When this happens, the language has infinitely many words.
-
-#1.7 Summary
-1) The linguistic signal is discrete at levels phonology, morphology, suntaz. At each level, we have have atoms and rules combining these atoms.
-
+### 1.7 Summary
+1. The linguistic signal is discrete at levels phonology, morphology, suntaz. At each level, we have have atoms and rules combining these atoms.
 The rules of morphological combination have the properties:
-2) they are recursive
-3) they are compositional
-4) they produce tree liek structures
-5) they use notions suhc as head and selection
-6) the notion of selection used is local: it is sisterhood in a tree
+2. they are recursive
+3. they are compositional
+4. they produce tree liek structures
+5. they use notions suhc as head and selection
+6. the notion of selection used is local: it is sisterhood in a tree
