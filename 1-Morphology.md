@@ -9,7 +9,6 @@ Basic ideas:
 4. Morphemes can be silent
 
 ### 1.1 Words come in categories
-
 * **Open class categories (new words can be freenly created in these categories):** Noun, Verb, Adjective, Adverb
 * **Closed categories:** Preposition, Determiner, Numerals, Complementizers, Auziliaries, Modals, Coordinators, Negation/ Affirmation
 
@@ -18,41 +17,37 @@ Basic ideas:
 * Only verbs can have the past tense or progressive affixes (i.e. I dance, I danc-ed, I am danc-ing)
 * Remember that negative results are usually uninformative.
 
-## 1.1.2. Synatactic contexts are sensitive to the same categories
-
+#### 1.1.2. Synatactic contexts are sensitive to the same categories
 Content is as title suggests
 
-## 1.1.3 Modifiers
-
+#### 1.1.3 Modifiers
 category, modifier
-V, Adv
-N, A(djective)
-P, Intensifier
-A, Degree
-Adv, Degree
+* V, Adv
+* N, A(djective)
+* P, Intensifier
+* A, Degree
+* Adv, Degree
 
-## 1.1.4 Complementary distribution
-if two words have complementary distribution, then in a given context, either one of two eelements may occur but not both
-i.e. the and these are in complementary distribution
+#### 1.1.4 Complementary distribution
+* if two words have complementary distribution, then in a given context, either one of two elements may occur but not both
+     * i.e. "the" and "these" are in complementary distribution
+* Question: do categories really exist?
 
-Question: do categories really exist?
+### 1.2 Word are made of smaller units: morphemes
+* prefixes, suffixes, infixes (i.e. fan-fucking-tastic)
 
-# 1.2 Word are made of smaller units: morphemes
-
-prefixes, suffixes, infixes (i.e. fan-fucking-tastic)
-
-# 1.3 Morphemes combin in regular ways
+### 1.3 Morphemes combine in regular ways
 i.e. national, nationalize, denationalize, nationalizing, denationalization, denationalizing
 
-## 1.3.2. Affixation
-There are 5!=120 orderings of these 4 morphemes but only this one forms a word. Theory: english speakers know some regularities about word formation.
-How to accept denationalization and rejecct other 119 forms?
-1) speaker knows de, nation, al, ize, ation
-2) is each morpheme free? prefix? suffix
-3) what does the affix attach to
-4) affixes must combine with something next to it. ok: nation nationiz national nationalize. not ok: nationizal
-5. what results from combining an affix with a complement. i.e. national is an adjective. al turns a N into an A.
-We call these specifications lexical entries.
+#### 1.3.2. Affixation
+* There are 5!=120 orderings of these 4 morphemes but only this one forms a word. Theory: english speakers know some regularities about word formation.
+* How to accept denationalization and reject other 119 forms?
+     * speaker knows de, nation, al, ize, ation
+     * is each morpheme free? prefix? suffix
+     * what does the affix attach to
+     * affixes must combine with something next to it. ok: nation nationiz national nationalize. not ok: nationizal
+     * what results from combining an affix with a complement. i.e. national is an adjective. -al turns a N into an A.
+* We call these specifications lexical entries.
 
 -a: c-selects N to form A: natur-al
 -ion: c-selects V to form N: realizat-ion, relat0ion
