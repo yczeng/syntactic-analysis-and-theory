@@ -39,7 +39,7 @@ category, modifier
 ### 1.3 Morphemes combine in regular ways
 i.e. national, nationalize, denationalize, nationalizing, denationalization, denationalizing
 
-#### 1.3.2. Affixation
+#### 1.3.2 Affixation
 * There are 5!=120 orderings of these 4 morphemes but only this one forms a word. Theory: english speakers know some regularities about word formation.
 * How to accept denationalization and reject other 119 forms?
      * speaker knows de, nation, al, ize, ation
@@ -51,7 +51,7 @@ i.e. national, nationalize, denationalize, nationalizing, denationalization, den
 * the collection of lexical entries is called a lexicon
 * The mental representation of the lexicon. There is some evidence that frequently used words are represented in their complete forms.
 
-#### 1.3.3 
+#### 1.3.3 Word structure
 ```
 ── N
    ├── -ation
