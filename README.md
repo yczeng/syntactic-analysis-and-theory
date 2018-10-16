@@ -1,1 +1,3 @@
-# an-intro-to-syntactic-analysis-and-theory
+# Intro to Syntactic Analysis and Theorys
+
+For documenting rules that govern English.
