@@ -16,7 +16,7 @@ What is it that speakers know, perhaps tacitly, uncounsciously, that explains th
      * Rebuttal: The number of sentences that people produce is very large, so that if you count all the sentences people sya, well over half of them are sentences that will only ever be spoken or written once.
      * "Penn Treebank 2" has more than 1 million words of text, mainly from the *Wall Street Journal*. Here, more than 99% of the sentences occur only once.
 * Third idea: What is humans memorize sequences such as D N V D N and D N V D N P D N?
-     * Not true that all following sequence D N C D N is acceptable. For example "Those air put a compliments" makes no sense. What seems to be required as a minimum is the hypothesis that linguistic knowledge involves recursive rules that are not sensitive to properties like pength. 
+     * Not true that all following sequence D N V D N is acceptable. For example "Those air put a compliments" makes no sense. What seems to be required as a minimum is the hypothesis that linguistic knowledge involves recursive rules that are not sensitive to properties like pength. 
 
 Syntax has to do with the order of words and morphemes in phrases.
 
@@ -54,3 +54,15 @@ Summary points:
 * String usbstitution failure is not a test for non-constituency
 * Substitution by a string longer than one word is not necessarily one that preserves constituency
 * The pronunciation of certain elements depends on their surroundings.
+
+### 2.5 Ellipsis
+
+Substitution by the null string. It seems like this is possible only when it replaces continuous substrings which are constituents.
+
+i.e. Yes, but this girl in the red coat will ~~put a picture of Bill on your desk before tomorrow~~.
+
+An example of VP ellipsis can be found in "tag questions". For example, "this girl will not buy bread, will she ~~buy bread~~?"
+
+
+### 2.6 Coordination
+
